@@ -1,7 +1,7 @@
 ### Hi there 👋
- <img align="right" alt="GIF" src="https://s8.gifyu.com/images/readMe.md.gif" width="500" height="320" preload="metadata"/>
-
-
+<div align="right">
+ <img align="right" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonathontufts&show_icons=true&hide_border=true" />
+</div>
 
 [![Github](https://img.shields.io/github/followers/jonathontufts?label=Follow&style=social)](https://github.com/jonathontufts)
 
@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate with professionals.
 - 💬 Ask me about anything snowboarding !
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: 
 
 ### Languages and Tools:
 
@@ -40,16 +39,9 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonathontufts&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathontufts" />
+<img align="center" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathontufts" />
 
 </details>
 
